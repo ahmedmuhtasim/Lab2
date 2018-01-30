@@ -10,5 +10,7 @@ Link to pull request https://github.com/UVA-CS3240-S18/Lab2Fork-103/pull/47
 
 After looking around, I decided to mess around with the Pig game. I didn't know how to play it and looked it up. I realized that adding the rules of the game can be a good addition to the program and so I added them in at the beginning so that future players know how to play the game.
 
+Activity 4:
+Link to issue https://github.com/UVA-CS3240-S18/IveGotIssues/issues/142
 
 
