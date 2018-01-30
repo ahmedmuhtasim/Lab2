@@ -1,8 +1,8 @@
 # Lab2
 ma2qf, Jan 29
 
-Activity 1: 
-Link to hello world https://github.com/ahmedmuhtasim/Lab2/blob/master/hello-world.py
+Activity 2: 
+Link to hello world https://github.com/ahmedmuhtasim/hello-world
 
 Activity 3: 
 Link to fork https://github.com/ahmedmuhtasim/Lab2Fork-103
